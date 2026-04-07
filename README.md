@@ -18,6 +18,11 @@
 
 ## Added mods
 
+- **Ambient**
+  - AmbientSounds
+  - Drip Sounds
+  - Effectual
+  - Presence Footsteps
 - **Adventure & Exploration:**
   - Cobblemon Battle Tower
   - Cobblemon: Extra Structures
@@ -50,12 +55,14 @@
 - **QoL:**
   - Carry On
   - Cubes Without Borders
+  - Dis-Enchanting Table
   - FallingTree
   - Jade 🔍
   - Teleport Commands
   - WorldEdit
 - **Optimization:**
   - Concurrent Chunk Management Engine (Fabric)
+  - Dimension Leak Fix
 - **Lib:**
   - Collective
 - **Localization:**
@@ -65,3 +72,10 @@
 
 - **Tom's Simple Storage Mod (Fabric):** removed to avoid duplication with Refined Storage.
 - **"Lumy" Interface:** removal of visual elements related to the original creator of Cobbleverse for a more neutral and immersive aesthetic.
+
+## Version
+
+- **cobblemon++** `1.0.2`
+- **cobblemon** `1.7.3`
+- **fabric** `0.18.6`
+- **minecraft** `1.21.1`
