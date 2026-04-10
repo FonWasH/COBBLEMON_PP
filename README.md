@@ -20,9 +20,11 @@
 
 - **Ambient**
   - AmbientSounds
+  - Chunks Fade In
   - Drip Sounds
   - Effectual
   - Presence Footsteps
+  - Sounds
 - **Adventure & Exploration:**
   - Cobblemon Battle Tower
   - Cobblemon: Extra Structures
@@ -35,6 +37,7 @@
   - Refined Storage - REI Integration
   - Refined Storage - Trinkets Integration
 - **Decorative:**
+  - Connectible Chains
   - Macaw's Bridges
   - Macaw's Doors
   - Macaw's Fences and Walls
@@ -44,6 +47,7 @@
   - Macaw's Stairs
   - Macaw's Trapdoors
   - Macaw's Windows
+  - Sooty Chimneys
 - **Offline-mode Ready:**
   - EasyAuth
   - Fabric Tailor
@@ -52,17 +56,29 @@
   - Lootr & Lootrmon
   - No TNT Griefing
   - Open Parties and Claims
+  - Simple Voice Chat
 - **QoL:**
   - Carry On
   - Cubes Without Borders
   - Dis-Enchanting Table
+  - ElevatorMod
+  - Explorer's Compass
   - FallingTree
   - Jade 🔍
+  - Nature's Compass
   - Teleport Commands
+  - Visual Workbench
   - WorldEdit
+- **Fun**
+  - Joy of Painting
 - **Optimization:**
+  - Better Compatibility Checker
   - Concurrent Chunk Management Engine (Fabric)
   - Dimension Leak Fix
+  - Distant Horizons
+  - Nvidium
+  - Particle Core
+  - Redirected
 - **Lib:**
   - Collective
 - **Localization:**
@@ -75,7 +91,7 @@
 
 ## Version
 
-- **cobblemon++** `1.0.2`
+- **cobblemon++** `1.0.3`
 - **cobblemon** `1.7.3`
 - **fabric** `0.18.6`
 - **minecraft** `1.21.1`
