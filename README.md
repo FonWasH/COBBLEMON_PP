@@ -56,7 +56,6 @@
   - Open Parties and Claims
   - Simple Voice Chat
 - **QoL:**
-  - AutoModpack
   - Cubes Without Borders
   - Dis-Enchanting Table
   - ElevatorMod
@@ -88,7 +87,7 @@
 
 ## Version
 
-- **cobblemon++** `1.1.0`
+- **cobblemon++** `1.1.1`
 - **cobblemon** `1.7.3`
 - **fabric** `0.18.6`
 - **minecraft** `1.21.1`
