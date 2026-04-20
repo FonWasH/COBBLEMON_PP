@@ -31,7 +31,6 @@
 - **Technology & Storage:**
   - Oritech
   - Orimon
-  - Oritechnical
   - Refined Storage
   - Refined Storage - Quartz Arsenal
   - Refined Storage - REI Integration
@@ -47,7 +46,6 @@
   - Macaw's Stairs
   - Macaw's Trapdoors
   - Macaw's Windows
-  - Sooty Chimneys
 - **Offline-mode Ready:**
   - EasyAuth
   - Fabric Tailor
@@ -58,7 +56,7 @@
   - Open Parties and Claims
   - Simple Voice Chat
 - **QoL:**
-  - Carry On
+  - AutoModpack
   - Cubes Without Borders
   - Dis-Enchanting Table
   - ElevatorMod
@@ -69,6 +67,7 @@
   - Teleport Commands
   - Visual Workbench
   - WorldEdit
+  - You're in Grave Danger
 - **Fun**
   - Joy of Painting
 - **Optimization:**
@@ -81,8 +80,6 @@
   - Redirected
 - **Lib:**
   - Collective
-- **Localization:**
-  - Traduction de COBBLEVERSE en Français
 
 ## Removed mods
 
@@ -91,7 +88,7 @@
 
 ## Version
 
-- **cobblemon++** `1.0.3`
+- **cobblemon++** `1.1.0`
 - **cobblemon** `1.7.3`
 - **fabric** `0.18.6`
 - **minecraft** `1.21.1`
